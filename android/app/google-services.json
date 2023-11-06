@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183232839864",
+    "project_id": "newcurd-2699e",
+    "storage_bucket": "newcurd-2699e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183232839864:android:36dc1e78338e62e3bf344d",
+        "android_client_info": {
+          "package_name": "com.mycompany.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGPZe_IeL148fDmW97v_cAPKUEndGGWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183232839864:android:38f183c928b66122bf344d",
+        "android_client_info": {
+          "package_name": "com.mycompany.newcurd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGPZe_IeL148fDmW97v_cAPKUEndGGWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
